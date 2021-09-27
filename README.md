@@ -1,8 +1,6 @@
 # Movies_Recommendation_Engine
-This is a project where we can able to get the Hollywood movies based on recommendation with Sentiment Analysis
-# Flight-Price-Prediction
- 
-![airplane](Images/air.jpg)  
+
+ ![airplane](Images/mov.jpg)  
 
 ## Table of Content ##
 - [Demo](#demo)
@@ -22,7 +20,7 @@ This is a project where we can able to get the Hollywood movies based on recomme
 
 ## Demo
 
-![flight](Images/flight.gif)  
+![flight](Images/movie.gif)  
 
 ## Overview
 
