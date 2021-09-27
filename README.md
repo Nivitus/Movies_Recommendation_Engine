@@ -12,7 +12,7 @@
 - [About Dataset](#about-dataset)
 - [Deployment on Heroku](#deployment-on-heroku)
 - [To Do](#to-do)
-- [Bug / Feature Request](#bug--feature-request)
+- [Bug / Feature Request](#bug-feature-request)
 - [Technologies Used](#technologies-used)
 - [Team](#team)
 - [License](#license)
@@ -24,13 +24,13 @@
 
 ## Overview
 
-The objective of this article is to predict flight prices given the various parameters. Data used in this article is publicly available at Kaggle. This will be a regression problem since the target or dependent variable is the price. Airline companies use complex algorithms to calculate flight prices given various conditions present at that particular time. These methods take financial, marketing, and various social factors into account to predict flight prices.
+Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
-Nowadays, the number of people using flights has increased significantly. It is difficult for airlines to maintain prices since prices change dynamically due to different conditions. That’s why we will try to use machine learning to solve this problem.
+Nowadays, the number of people using Netflix, Hotstar Movies has increased significantly.The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies.
 
 ## Motivation
 
-During this lockdown period I have learnt countless things related to Data Science, Machine Learning and AI. I always love to share my knowledge with my friends and helps on solving their coding related problems with my best and they also help me on learning new things and keeps motivating me. Though it is a small range of community, I want to share my knowledge to everyone. Whenever I wants relaxation, I write blogs to stay relevant. You can see all my blogs by clicking <a href="https://medium.com/@Nivitus." target="_blank">here</a>.
+Ever wondered how Netflix or Hotstar recommends new movies based on the watch history, I really want to know about how Amazon or Flipkart suggests new products based on your order or search history? These suggestions or recommendations are done by a system called a recommendation system. This engine makes suggestions by learning and understanding the patterns in your watch history (let’s say) and then applies those patterns and findings to make new suggestions.
 
 
 ## Technical Aspects
@@ -50,7 +50,7 @@ To run my app on your local machine, do the following steps.
 > **Step 2** :
    - If you want the current version of my repository to be in your github, you can do forking my repository by clicking as shown in the picture below.
    
-   [![Alt Text](Images/git.JPG)](https://github.com/Nivitus/Deep-Learning-Projects)
+   [![Alt Text](Images/git.JPG)](https://github.com/Nivitus/Machine-Learning-Projects)
 
    
    - Clone my repository to your local machine by running the following command. Before doing this, you have to install git on your machine and make sure you are having proper internet connection.
@@ -97,14 +97,15 @@ To run my app on your local machine, do the following steps.
    ```
 
 ## About Dataset
-For this project I have download dataset form [Kaggel](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh). In this dataset there are three folders like train , test and validation folder . In this dataset features like Departure time, Arrival Time, Source, Destination, Stopage and Airline Service Names.
+For this project I have download dataset form [Kaggel](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data). In this dataset there are three folders like train , test and validation folder . In this dataset features like Departure time, Arrival Time, Source, Destination, Stopage and Airline Service Names.
 
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
 - In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
-- Here is the Deployment link [click here](https://flightfare7.herokuapp.com/)
+- Here is the Deployment link [click here](https://movierecommengine.herokuapp.com/)
 
-![flight](Images/fd.JPG)  
+![movie1](Images/ms.JPG)  
+![movie2](Images/fss.JPG)  
 
 ## To Do
 
