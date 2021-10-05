@@ -97,7 +97,7 @@ To run my app on your local machine, do the following steps.
    ```
 
 ## About Dataset
-For this project I have download dataset form [Kaggel](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data). Aprat from that got another data file using web scrapping from IMDB using my Account API key.
+For this project I have download dataset form [Kaggel](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data). Aprat from that got another data file using web scrapping from TMDB using my Account API key.
 
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
